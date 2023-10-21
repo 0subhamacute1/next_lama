@@ -1,0 +1,22 @@
+.row {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.row1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+.bodyContainer {
+  display: flex;
+  justify-content: space-between;
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 5px;
+  margin: 5px;
+}
